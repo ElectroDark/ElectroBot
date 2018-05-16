@@ -15,7 +15,7 @@ Client.on("ready", () => {
     Client.user.setGame("etb?help | v1.0")})
 
 
-Client.login('NDQ0OTQyOTA4NjE3OTE2NDI2.DdjS5g.ZDgYRmBQ5Hsj1igEhD-MLvLSxVY')
+Client.login('votre token')
 
 Client.on('message', message => {
 
